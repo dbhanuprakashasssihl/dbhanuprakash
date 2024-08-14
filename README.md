@@ -1,7 +1,7 @@
 
 <!--- # Feel free to add content and custom Front Matter to this file. To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults  --->
 
-<img title="a title" alt="Alt text" style="float: right;" width="200" src="/fig/Bhanu.jpg">
+<img title="a title" alt="Alt text" style="float: right;" width="200" src="/Bhanu.jpg">
 
 Hi there! I am D Bhanu Prakash.
 
@@ -32,7 +32,7 @@ Email: [dbhanuprakash233@gmail.com](mailto:dbhanuprakash233@gmail.com)
 ### Download Resume 
 
 <p align='center'>
-<a href="https://dbhanuprakash233.github.io/CV.pdf" target="_blank" rel="noopener noreferrer"><img src="/fig/download.png" height="50" title="Resume" alt="Curriculum Vitae"></a> 
+<a href="https://dbhanuprakash233.github.io/CV.pdf" target="_blank" rel="noopener noreferrer"><img src="/download.png" height="50" title="Resume" alt="Curriculum Vitae"></a> 
 </p>
 
 
